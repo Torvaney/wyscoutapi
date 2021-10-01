@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf8') as f:
 setuptools.setup(
     name='wyscoutapi',
     description='An extremely basic wrapper for the Wyscout data API',
-    version='0.0.1',
+    version='0.0.2',
     author='Ben Torvaney',
     author_email='torvaney@protonmail.com',
     url='https://github.com/Torvaney/wyscoutapi',
